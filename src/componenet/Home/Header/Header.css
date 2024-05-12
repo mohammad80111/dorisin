@@ -1,0 +1,79 @@
+header{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    padding: 25px 0;
+    background-image: url('./../../../assets/stairs-6133971_1280.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+header .header-over{
+    background-color: rgb(110, 58, 152, .6);
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 25px 0;
+}
+
+
+header h2{
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 36px 0px ;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+header p{
+    color: #fff;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 25px 0;
+    letter-spacing: 1px;
+
+}
+
+header form{
+    /* here to make form on center we can use margin auto or 25% */
+  margin:25px 25%;   
+  background-color: #fff;
+  width: 50%;
+  max-width: 100%;
+  padding: 7px;
+  border-radius: 30px;
+
+}
+
+
+header form input{
+    background-color:#fff;
+    width: 250px;
+    height: 45px;
+    border: none;
+    border-radius: 30px;
+    color: black;
+    font-size: 16px;
+    padding: 7px;
+    outline:none;
+}
+
+
+
+header form button{
+    background-color: #fb3e3e;
+    width: 140px;
+    height: 45px;
+    border-radius:30px ;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+

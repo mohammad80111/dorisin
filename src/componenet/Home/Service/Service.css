@@ -1,0 +1,122 @@
+ .sevice{
+    margin-top: 60px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 25px 0;
+    text-align: center;
+    overflow: hidden;
+}
+
+
+
+.sevice h2{
+    color: rgb(4, 4, 34);
+    font-size: 30px;
+    margin: 15px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+.sevice p{
+    color: #564e99;
+    font-size: 18px;
+    line-height: 40px;
+    margin:15px 0px ;
+}
+
+
+
+.sevice .box{
+    color: rgb(150, 51, 150);
+    font-size: 30px;
+    transition: 1s ease-in-out;
+}
+
+.sevice .box:hover{
+    rotate: 3deg;
+    scale: 0.9;
+    
+}
+
+
+.sevice .box h2{
+    color: rgba(85, 85, 82, 0.904);
+}
+
+
+
+
+
+.sevice .box p{
+    color:black;
+}
+
+
+.sevice img{
+    max-width: 100%;
+    width: 100%;
+    overflow: hidden;
+    width: 300px;
+    transition: 0.9s;
+    border-radius: 30%;
+
+}
+
+
+.sevice img:hover{
+    box-shadow: 0 0 80px 10px #564e99;
+    rotate: 3deg;
+    scale: 0.9;
+}
+
+
+.sevice .last{
+    margin-top: 40px;
+    
+  
+
+}
+
+
+
+
+
+.sevice .last h3{
+   color: #564e99bd;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+
+.sevice .last p{
+    line-height: 30px;
+}
+
+
+.sevice .last ul{
+   width: 100%;
+   max-width: 100%;
+   margin-top: 40px;
+   
+}
+
+
+.sevice .last ul li{
+    background-color:#564e99;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    transition: 1s;
+}
+
+
+.sevice .last ul li:hover{
+    scale: 0.9;
+
+}

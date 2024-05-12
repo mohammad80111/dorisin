@@ -1,0 +1,73 @@
+.prices{
+    margin: 50px 0;
+    padding: 25px 0;
+
+}
+
+
+.prices h2{
+    color:#4e42b6;
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin: 15px;
+    text-align: center;
+}
+
+
+.prices p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+.prices .box{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    padding: 25px;
+    margin-top: 25px;
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+.prices .box h6{
+    font-size: 15px;
+    margin: 5px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+.prices .box h4{
+    font-size: 22px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+
+.prices .box span{
+    color: red;
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+
+
+.prices .box ul{
+    margin: 15px 0;
+    padding: 0px;
+
+
+}
+
+
+.prices .box ul li{
+    list-style-type: none;
+}
